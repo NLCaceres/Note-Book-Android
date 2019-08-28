@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Note List</string>
+    <string name="add_button">Add</string>
+    <string name="title_text">Title</string>
+    <string name="save_button">Save Note</string>
+    <string name="delete_button">Delete Note</string>
+    <string name="delete_context_menu">Delete</string>
+</resources>
